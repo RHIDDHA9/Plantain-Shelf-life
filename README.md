@@ -1,4 +1,12 @@
 # Plantain-Shelf-life using CNN Architechture
+
+# There is an issue in the model. It's validation accuracy is 0 which indicates the overfitting of the model due to may be it's complexities. It has 97.69% of training accuracy which is very high and it can identify images from the dataset images which have given to it while training. But when comes to identifying outsider images it fails completely due to it's severely overfitting issue.
+
+# The rectified version will be updated on my github account. But this time not with plantain. We'll try to create a new CNN Architecture from scratch.
+
+# So at last i can say you if you wanna idenfity any image from a pre trained dataset , you may use this model. Else, discard it.
+
+
 Plantain Shelf life and there freshness parameters determining using machine learning 
 
 Introduction and Pre-processing: 
