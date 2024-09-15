@@ -1,4 +1,4 @@
-# Plantain-Shelf-life
+# Plantain-Shelf-life using CNN Architechture
 Plantain Shelf life and there freshness parameters determining using machine learning 
 
 Introduction and Pre-processing: 
